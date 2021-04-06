@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IS Test Project</string>
+    <string name="welcome">Welcome</string>
+    <string name="test1">Test 1</string>
+    <string name="heading_details">Details of listed items</string>
+    <string name="username">User name</string>
+    <string name="password">Password</string>
+    <string name="login">Log in</string>
+    <string name="view_item_details">View item Details</string>
+    <string name="price_">Price %s</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="err_empty_field">%s is required</string>
+    <string name="feature_not_available">Feature not available right now</string>
+    <string name="no_items_found">No items found</string>
+    <string name="logout">Logout</string>
+
+</resources>
